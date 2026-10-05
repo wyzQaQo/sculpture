@@ -1,0 +1,88 @@
+{
+  "site": {
+    "title": "ArtisanSteel — Sculptures Personnalisées en Acier Inoxydable & Ingénierie d'Art Monumental",
+    "description": "Fabricant mondial de sculptures personnalisées en acier inoxydable à grande échelle pour l'art public, les paysages commerciaux et les monuments architecturaux. Plus de 20 ans d'excellence en ingénierie.",
+    "brand": "ArtisanSteel",
+    "tagline": "Ingénierie d'Art Monumental"
+  },
+  "nav": {
+    "home": "Accueil",
+    "sculptures": "Sculptures",
+    "case_studies": "Études de Cas",
+    "custom_design": "Design Sur Mesure",
+    "materials": "Matériaux",
+    "installation": "Installation",
+    "about": "À Propos",
+    "contact": "Contact",
+    "get_quote": "Demander un Devis"
+  },
+  "hero": {
+    "headline": "Nous Créons<br/>l'Art Monumental",
+    "subheadline": "Sculptures personnalisées en acier inoxydable pour les villes, hôtels et espaces commerciaux du monde entier.",
+    "cta_primary": "Lancez Votre Projet",
+    "cta_secondary": "Voir Nos Réalisations"
+  },
+  "sculptures": {
+    "title": "Collection de Sculptures",
+    "subtitle": "L'art de l'ingénierie qui définit les espaces",
+    "categories": {
+      "abstract": "Sculpture Abstraite",
+      "modern_art": "Art Moderne",
+      "landmark": "Monument Extérieur",
+      "mirror_polished": "Poli Miroir",
+      "ring": "Sculpture Anneau",
+      "public_art": "Art Public"
+    }
+  },
+  "why_us": {
+    "title": "Pourquoi ArtisanSteel",
+    "factory_area": "Surface de l'Usine",
+    "factory_area_value": "25 000 m²",
+    "employees": "Équipe d'Ingénierie",
+    "employees_value": "150+ Experts",
+    "countries": "Pays Desservis",
+    "countries_value": "40+",
+    "capacity": "Capacité Annuelle",
+    "capacity_value": "500+ Projets",
+    "certifications": "Certifications",
+    "certifications_value": "ISO 9001, CE, BV"
+  },
+  "case_studies": {
+    "title": "Projets Phares",
+    "subtitle": "Des monuments mondiaux que nous avons conçus"
+  },
+  "process": {
+    "title": "Du Concept au Monument",
+    "subtitle": "Notre processus d'ingénierie complet",
+    "steps": {
+      "design": "Design & Concept",
+      "engineering": "Ingénierie Structurelle",
+      "fabrication": "Fabrication de Précision",
+      "finishing": "Polissage Miroir",
+      "logistics": "Logistique Mondiale",
+      "installation": "Installation sur Site"
+    }
+  },
+  "cta": {
+    "title": "Créons Quelque Chose d'Iconique",
+    "subtitle": "Partagez votre vision. Nous la réalisons.",
+    "button": "Demander un Devis"
+  },
+  "contact": {
+    "title": "Contactez-Nous",
+    "subtitle": "Démarrez une conversation sur votre prochain projet monumental",
+    "name": "Nom Complet",
+    "company": "Entreprise",
+    "email": "Email",
+    "phone": "Téléphone",
+    "country": "Pays",
+    "message": "Détails du Projet",
+    "submit": "Envoyer",
+    "success": "Merci ! Nous répondrons sous 24 heures."
+  },
+  "footer": {
+    "rights": "Tous droits réservés.",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation"
+  }
+}

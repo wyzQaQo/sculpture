@@ -1,0 +1,88 @@
+{
+  "site": {
+    "title": "ArtisanSteel — Esculturas Personalizadas de Acero Inoxidable e Ingeniería de Arte Monumental",
+    "description": "Fabricante global de esculturas personalizadas de acero inoxidable a gran escala para arte público, paisajes comerciales y monumentos arquitectónicos. Más de 20 años de excelencia en ingeniería.",
+    "brand": "ArtisanSteel",
+    "tagline": "Ingeniería de Arte Monumental"
+  },
+  "nav": {
+    "home": "Inicio",
+    "sculptures": "Esculturas",
+    "case_studies": "Casos de Estudio",
+    "custom_design": "Diseño Personalizado",
+    "materials": "Materiales",
+    "installation": "Instalación",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "get_quote": "Solicitar Cotización"
+  },
+  "hero": {
+    "headline": "Creamos<br/>Arte Monumental",
+    "subheadline": "Esculturas personalizadas de acero inoxidable para ciudades, hoteles y espacios comerciales en todo el mundo.",
+    "cta_primary": "Inicia tu Proyecto",
+    "cta_secondary": "Ver Nuestro Trabajo"
+  },
+  "sculptures": {
+    "title": "Colección de Esculturas",
+    "subtitle": "Arte de ingeniería que define espacios",
+    "categories": {
+      "abstract": "Escultura Abstracta",
+      "modern_art": "Arte Moderno",
+      "landmark": "Monumento Exterior",
+      "mirror_polished": "Pulido Espejo",
+      "ring": "Escultura de Anillo",
+      "public_art": "Arte Público"
+    }
+  },
+  "why_us": {
+    "title": "Por qué ArtisanSteel",
+    "factory_area": "Área de Fábrica",
+    "factory_area_value": "25.000 m²",
+    "employees": "Equipo de Ingeniería",
+    "employees_value": "150+ Expertos",
+    "countries": "Países Atendidos",
+    "countries_value": "40+",
+    "capacity": "Capacidad Anual",
+    "capacity_value": "500+ Proyectos",
+    "certifications": "Certificaciones",
+    "certifications_value": "ISO 9001, CE, BV"
+  },
+  "case_studies": {
+    "title": "Proyectos Destacados",
+    "subtitle": "Monumentos globales que hemos diseñado"
+  },
+  "process": {
+    "title": "Del Concepto al Monumento",
+    "subtitle": "Nuestro proceso de ingeniería integral",
+    "steps": {
+      "design": "Diseño y Concepto",
+      "engineering": "Ingeniería Estructural",
+      "fabrication": "Fabricación de Precisión",
+      "finishing": "Pulido Espejo",
+      "logistics": "Logística Global",
+      "installation": "Instalación en Sitio"
+    }
+  },
+  "cta": {
+    "title": "Construyamos Algo Icónico",
+    "subtitle": "Comparte tu visión. La convertiremos en realidad.",
+    "button": "Solicitar Cotización"
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "subtitle": "Inicia una conversación sobre tu próximo proyecto monumental",
+    "name": "Nombre Completo",
+    "company": "Empresa",
+    "email": "Correo Electrónico",
+    "phone": "Teléfono",
+    "country": "País",
+    "message": "Detalles del Proyecto",
+    "submit": "Enviar Consulta",
+    "success": "¡Gracias! Responderemos en 24 horas."
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio"
+  }
+}

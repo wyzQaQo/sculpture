@@ -1,0 +1,88 @@
+{
+  "site": {
+    "title": "ArtisanSteel — Custom Stainless Steel Sculpture & Landmark Art Engineering",
+    "description": "Global manufacturer of large-scale custom stainless steel sculptures for public art, commercial landscapes, and architectural landmarks. 20+ years of engineering excellence.",
+    "brand": "ArtisanSteel",
+    "tagline": "Engineering Landmark Art"
+  },
+  "nav": {
+    "home": "Home",
+    "sculptures": "Sculptures",
+    "case_studies": "Case Studies",
+    "custom_design": "Custom Design",
+    "materials": "Materials",
+    "installation": "Installation",
+    "about": "About",
+    "contact": "Contact",
+    "get_quote": "Get Quote"
+  },
+  "hero": {
+    "headline": "We Engineer<br/>Landmark Art",
+    "subheadline": "Custom stainless steel sculptures for cities, hotels, and commercial spaces worldwide.",
+    "cta_primary": "Start Your Project",
+    "cta_secondary": "View Our Work"
+  },
+  "sculptures": {
+    "title": "Sculpture Collection",
+    "subtitle": "Engineering art that defines spaces",
+    "categories": {
+      "abstract": "Abstract Sculpture",
+      "modern_art": "Modern Art Sculpture",
+      "landmark": "Outdoor Landmark",
+      "mirror_polished": "Mirror Polished",
+      "ring": "Ring Sculpture",
+      "public_art": "Public Art"
+    }
+  },
+  "why_us": {
+    "title": "Why Choose ArtisanSteel",
+    "factory_area": "Factory Area",
+    "factory_area_value": "25,000 m²",
+    "employees": "Engineering Team",
+    "employees_value": "150+ Experts",
+    "countries": "Countries Served",
+    "countries_value": "40+",
+    "capacity": "Annual Capacity",
+    "capacity_value": "500+ Projects",
+    "certifications": "Certifications",
+    "certifications_value": "ISO 9001, CE, BV"
+  },
+  "case_studies": {
+    "title": "Featured Projects",
+    "subtitle": "Global landmarks we've engineered"
+  },
+  "process": {
+    "title": "From Concept to Landmark",
+    "subtitle": "Our end-to-end engineering process",
+    "steps": {
+      "design": "Design & Concept",
+      "engineering": "Structural Engineering",
+      "fabrication": "Precision Fabrication",
+      "finishing": "Mirror Polishing",
+      "logistics": "Global Logistics",
+      "installation": "On-Site Installation"
+    }
+  },
+  "cta": {
+    "title": "Let's Build Something Iconic",
+    "subtitle": "Share your vision. We'll engineer it into reality.",
+    "button": "Request a Quote"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Start a conversation about your next landmark project",
+    "name": "Full Name",
+    "company": "Company",
+    "email": "Email",
+    "phone": "Phone",
+    "country": "Country",
+    "message": "Project Details",
+    "submit": "Send Inquiry",
+    "success": "Thank you! We'll respond within 24 hours."
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}
