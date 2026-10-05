@@ -1,13 +1,25 @@
-import { getRequestConfig } from 'next-intl/server'
-import { routing } from './routing'
-
-export default getRequestConfig(async ({ requestLocale }) => {
-  let locale = await requestLocale
-  if (!locale || !routing.locales.includes(locale as 'en' | 'ar' | 'es' | 'fr')) {
-    locale = routing.defaultLocale
+import { getRequestConfig } from "next-intl/server";
+export default getRequestConfig(async ({ locale }) => {
+  let messages;
+  try {
+    switch (locale) {
+      case "zh": messages = (await import("../../messages/zh.json")).default; break;
+      case "es": messages = (await import("../../messages/es.json")).default; break;
+      case "fr": messages = (await import("../../messages/fr.json")).default; break;
+      case "ar": messages = (await import("../../messages/ar.json")).default; break;
+      default: messages = (await import("../../messages/en.json")).default; break;
+    }
+  } catch(e) {
+    // If nested differently, try one directory up
+    try {
+      switch (locale) {
+        case "zh": messages = (await import("../messages/zh.json")).default; break;
+        case "es": messages = (await import("../messages/es.json")).default; break;
+        case "fr": messages = (await import("../messages/fr.json")).default; break;
+        case "ar": messages = (await import("../messages/ar.json")).default; break;
+        default: messages = (await import("../messages/en.json")).default; break;
+      }
+    } catch(e2) {}
   }
-  return {
-    locale,
-    messages: (await import(`../../messages/${locale}.json`)).default
-  }
-})
+  return { locale, messages };
+});

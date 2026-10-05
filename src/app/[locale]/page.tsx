@@ -1,3 +1,4 @@
+export const dynamicParams = false;
 'use client';
 
 import dynamic from 'next/dynamic';

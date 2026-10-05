@@ -1,3 +1,4 @@
+export const dynamicParams = false;
 'use client';
 
 import FadeContent from '@/components/react-bits/Animations/FadeContent';
