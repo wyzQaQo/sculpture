@@ -15,14 +15,14 @@ jobs:
           node-version: 20
           cache: npm
 
-      - name: Install local package dependencies
+      - name: Install dependencies
         run: npm install --legacy-peer-deps
 
       - name: Inject Core Dependencies
         run: npm install @opennextjs/cloudflare@latest wrangler@latest --save-dev --legacy-peer-deps
 
-      - name: Build Next.js with OpenNext
-        run: npx opennextjs-cloudflare build
+      - name: Run OpenNext Build
+        run: npx opennextjs-cloudflare build --dangerouslyUseUnsupportedNextVersion || npx opennextjs-cloudflare build
 
       - name: Deploy to Cloudflare Workers
         run: npx wrangler deploy
